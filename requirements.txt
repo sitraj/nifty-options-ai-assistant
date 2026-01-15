@@ -1,0 +1,9 @@
+pandas
+numpy
+requests
+urllib3<2.0  # Pin to v1.x for LibreSSL compatibility on macOS
+fastapi
+uvicorn
+pydantic
+streamlit
+loguru
